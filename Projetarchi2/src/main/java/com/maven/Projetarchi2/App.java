@@ -2,7 +2,6 @@ package com.maven.Projetarchi2;
 
 /**
  * Hello world!
- *
  */
 public class App 
 {
